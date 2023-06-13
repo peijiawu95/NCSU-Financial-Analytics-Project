@@ -1,17 +1,17 @@
 # NCSU-Financial-Analytics-Project
 
 # RFP: RETAIL CREDIT SCORING
-* Objective:
+### Objective:
 The Commercial Banking Corporation (hereafter the “Bank”), acting by and through its department of Revolving Lines of Credit is seeking proposals for banking services. The scope of services includes the following:
-• Creation of a scorecard, to be used for evaluating all retail credit applications (credit facilities, revolving lines of credit, etc.)
-• Creation of a distribution to associate score buckets (preferably deciles) with default rate.
-• Regulatory compliance (FDIC) requires the usage of reject inference. The reject inference technique is on the discretion of the Responder but it should be clearly stated in the report.
-• The Bank’s analysts suggest a training/validation mix of 70% / 30%; the Bank is open to other
+* Creation of a scorecard, to be used for evaluating all retail credit applications (credit facilities, revolving lines of credit, etc.)
+* Creation of a distribution to associate score buckets (preferably deciles) with default rate.
+* Regulatory compliance (FDIC) requires the usage of reject inference. The reject inference technique is on the discretion of the Responder but it should be clearly stated in the report.
+* The Bank’s analysts suggest a training/validation mix of 70% / 30%; the Bank is open to other
 proposals as long as they are clearly stated and supported.
-• General guidelines for final cutoff points: Respondents to this RFP can define either:
-• Cutoff points should be identified with the purpose of:
-• The Bank assigns a score of 500 to applicants with odds ratio 20:1.
-• Doubling the odds is associated with a change of 50 points in the scorecard.
+* General guidelines for final cutoff points: Respondents to this RFP can define either:
+* Cutoff points should be identified with the purpose of:
+* The Bank assigns a score of 500 to applicants with odds ratio 20:1.
+* Doubling the odds is associated with a change of 50 points in the scorecard.
 
   
 # Detail for the whole project:
